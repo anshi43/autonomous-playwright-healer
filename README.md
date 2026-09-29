@@ -35,7 +35,7 @@ graph TD
 
 ```bash
 # 1. Clone & Setup
-git clone [https://github.com/anshi43/autonomous-playwright-healer.git](https://github.com/anshi43/autonomous-playwright-healer.git)
+git clone https://github.com/anshi43/autonomous-playwright-healer.git
 cd autonomous-playwright-healer
 python3 -m venv venv
 source venv/bin/activate
